@@ -52,7 +52,7 @@
 ###
 
 <div align="left">
-  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat](https://www.linkedin.com/in/manuel-osvaldo-rosario-de-pe%C3%B1a-641483272/)" height="43" alt="linkedin logo"  />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="43" alt="linkedin logo"  />
 </div>
 
 ###
